@@ -1,4 +1,4 @@
-﻿using CdCSharp.Cli;
+﻿using CdCSharp.NjBlazor.Tools.ThemeGenerator.Cli;
 
 namespace Nj.Tools.XmlDocToMarkdown;
 internal static class Help

@@ -1,4 +1,4 @@
-﻿using CdCSharp.Cli;
+﻿using CdCSharp.NjBlazor.Tools.ThemeGenerator.Cli;
 using Nj.Tools.XmlDocToMarkdown;
 
 try
