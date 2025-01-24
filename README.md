@@ -1,4 +1,4 @@
-# CdCSharp.Generic 📚
+# CdCSharp.Tools.XMLDocToMarkdown 📚
 
 [![NuGet](https://img.shields.io/nuget/v/CdCSharp.Tools.XMLDocToMarkdown.svg)](https://www.nuget.org/packages/CdCSharp.Tools.XMLDocToMarkdown)
 [![License](https://img.shields.io/github/license/smaicas/CdCSharp.Tools.XMLDocToMarkdown)](LICENSE)
