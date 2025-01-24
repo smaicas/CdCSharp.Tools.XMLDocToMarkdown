@@ -8,13 +8,20 @@
 
 ## 🌟 Features
 
-- dotnet tool xmltomd
+- dotnet tool: xmltomd
 
 ## 📦 Installation
 
+Global
 ```bash
-dotnet tool add CdCSharp.Tools.XMLDocToMarkdown
+dotnet tool install CdCSharp.Tools.XMLDocToMarkdown -g
 ```
+
+Local
+```
+dotnet tool install CdCSharp.Tools.XMLDocToMarkdown
+```
+
 
 ## 🤝 Contributing
 
