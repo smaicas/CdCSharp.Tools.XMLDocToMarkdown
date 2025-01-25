@@ -30,7 +30,7 @@ Join the [discord](https://discord.gg/MpUfe7zD)
 
 ## 📄 License
 
-This project is licensed under the GPL v3 License - see the [LICENSE](https://github.com/smaicas/CdCSharp.Tools.XMLDocToMarkdown/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/smaicas/CdCSharp.Tools.XMLDocToMarkdown/blob/master/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
