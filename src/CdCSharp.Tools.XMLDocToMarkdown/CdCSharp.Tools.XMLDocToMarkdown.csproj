@@ -13,7 +13,7 @@
 		<Authors>Samuel Maícas (CdCSharp)</Authors>
 		<Company>smaicas</Company>
 		<PackageProjectUrl></PackageProjectUrl>
-		<RepositoryUrl>https://github.com/smaicas/CdCSharp.FluentCli</RepositoryUrl>
+		<RepositoryUrl>https://github.com/smaicas/CdCSharp.Tools.XMLDocToMarkdown</RepositoryUrl>
 
 		<LangVersion>Latest</LangVersion>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>

@@ -1,6 +1,6 @@
 # 🎉 Thank You for Contributing!
 
-Thank you for your interest in improving **[CdCSharp.SyntaxHighlight]**. Your help is greatly valued. 🙌
+Thank you for your interest in improving **[CdCSharp.XMLDocToMarkdown]**. Your help is greatly valued. 🙌
 
 ---
 
