@@ -50,7 +50,7 @@
 	</ItemGroup>
 	
 	<ItemGroup>
-		<PackageReference Include="CdCSharp.FluentCli" Version="1.0.1" />
+		<PackageReference Include="CdCSharp.FluentCli" Version="1.0.2" />
 		<PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.12.0" />
 		<PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.12.0" />
 		<PackageReference Include="Microsoft.CodeAnalysis.CSharp.Workspaces" Version="4.12.0" />
