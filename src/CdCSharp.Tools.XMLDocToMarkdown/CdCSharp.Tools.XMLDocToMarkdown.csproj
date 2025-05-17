@@ -33,21 +33,6 @@
 	<ItemGroup>
 		<InternalsVisibleTo Include="CdCSharp.Tools.XMLDocToMarkdown.UnitTests" />
 	</ItemGroup>
-
-	<ItemGroup>
-		<None Include="..\..\LICENSE.md">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
-		</None>
-		<None Include="..\..\logo.png">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
-		</None>
-		<None Include="..\..\README.md">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
-		</None>
-	</ItemGroup>
 	
 	<ItemGroup>
 		<PackageReference Include="CdCSharp.FluentCli" Version="1.0.2" />
